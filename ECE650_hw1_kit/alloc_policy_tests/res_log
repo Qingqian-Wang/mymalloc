@@ -1,0 +1,138 @@
+bf
+small: 
+data_segment_size = 2584, data_segment_free_space = 3265624
+Execution Time = 12.625462 seconds
+Fragmentation  = 0.999209
+large: 
+Execution Time = 29.639259 seconds
+Fragmentation  = 0.998471
+equal: 
+Execution Time = 3.420419 seconds
+Fragmentation  = 0.999950
+
+ff
+small: 
+data_segment_size = 72680, data_segment_free_space = 3430008
+Execution Time = 10.114738 seconds
+Fragmentation  = 0.978811
+large: 
+Execution Time = 12.269740 seconds
+Fragmentation  = 0.980148
+equal: 
+Execution Time = 0.102713 seconds
+Fragmentation  = 0.999950
+
+small: 
+data_segment_size = 72680, data_segment_free_space = 3430008
+Execution Time = 9.857964 seconds
+Fragmentation  = 0.978811
+large: 
+data_segment_size = 7138128, data_segment_free_space = 359575944
+Execution Time = 12.475450 seconds
+Fragmentation  = 0.980148
+equal: 
+data_segment_size = 128, data_segment_free_space = 2560000
+Execution Time = 0.103244 seconds
+Fragmentation  = 0.999950
+
+BF:
+
+small: 
+data_segment_size = 2584, data_segment_free_space = 3265624
+Execution Time = 7.015686 seconds
+Fragmentation  = 0.999209
+large: 
+data_segment_size = 518840, data_segment_free_space = 339328784
+Execution Time = 29.541387 seconds
+Fragmentation  = 0.998471
+equal: 
+data_segment_size = 128, data_segment_free_space = 2560000
+Execution Time = 0.086531 seconds
+Fragmentation  = 0.999950
+
+small: 
+data_segment_size = 2584, data_segment_free_space = 3265624
+Execution Time = 7.112832 seconds
+Fragmentation  = 0.999209
+large: 
+data_segment_size = 518840, data_segment_free_space = 339328784
+Execution Time = 29.850934 seconds
+Fragmentation  = 0.998471
+equal: 
+data_segment_size = 128, data_segment_free_space = 2560000
+Execution Time = 0.846413 seconds
+Fragmentation  = 0.999950
+
+small: 
+data_segment_size = 72680, data_segment_free_space = 3430008
+Execution Time = 10.034138 seconds
+Fragmentation  = 0.978811
+large: 
+data_segment_size = 7138128, data_segment_free_space = 359575944
+Execution Time = 12.688619 seconds
+Fragmentation  = 0.980148
+equal: 
+data_segment_size = 128, data_segment_free_space = 2560000
+Execution Time = 1.017971 seconds
+Fragmentation  = 0.999950
+
+small: 
+data_segment_size = 58264, data_segment_free_space = 3430040
+Execution Time = 4.740466 seconds
+Fragmentation  = 0.983014
+large: 
+data_segment_size = 548928, data_segment_free_space = 359578512
+Execution Time = 4.459108 seconds
+Fragmentation  = 0.998473
+equal: 
+data_segment_size = 128, data_segment_free_space = 2560000
+Execution Time = 0.965710 seconds
+Fragmentation  = 0.999950
+
+small: 
+data_segment_size = 1008, data_segment_free_space = 3266016
+Execution Time = 3.278377 seconds
+Fragmentation  = 0.999691
+large: 
+data_segment_size = 202592, data_segment_free_space = 338763120
+Execution Time = 11.231699 seconds
+Fragmentation  = 0.999402
+equal: 
+data_segment_size = 128, data_segment_free_space = 2560000
+Execution Time = 0.929493 seconds
+Fragmentation  = 0.999950
+
+small: 
+large: 
+equal: 
+
+small: 
+large: 
+equal: 
+
+small: 
+data_segment_size = 872, data_segment_free_space = 3262400
+Execution Time = 3.259699 seconds
+Fragmentation  = 0.999733
+large: 
+data_segment_size = 236096, data_segment_free_space = 338650008
+Execution Time = 11.306572 seconds
+Fragmentation  = 0.999303
+equal: 
+data_segment_size = 128, data_segment_free_space = 2560000
+Execution Time = 0.772011 seconds
+Fragmentation  = 0.999950
+
+small: 
+data_segment_size = 58264, data_segment_free_space = 3430040
+Execution Time = 4.839266 seconds
+Fragmentation  = 0.983014
+large: 
+data_segment_size = 548928, data_segment_free_space = 359578512
+Execution Time = 4.681489 seconds
+Fragmentation  = 0.998473
+equal: 
+data_segment_size = 128, data_segment_free_space = 2560000
+Execution Time = 0.573655 seconds
+Fragmentation  = 0.999950
+
