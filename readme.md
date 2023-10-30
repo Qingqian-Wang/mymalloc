@@ -2,9 +2,11 @@
 
 - In this project, I designed my own malloc function to support the expansion of the size of the stack in a preassigned way.
 For a single block, its structure is like this:
+
 ![block](/image/block.png)
 - To store these blocks, I used linkedlist
-![storage](/image/linkedlist)
+- 
+![storage](/image/linkedlist.png)
 
 - To be specific, I used sbrk() system call to expand the size of the stack, and I used the first and best fit to assign these preassigned memories to the program.
 
